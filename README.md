@@ -74,13 +74,9 @@ Este comando verifica la continuidad entre capítulos y la sintaxis de los archi
 
 Consulta [el alcance de las verificaciones](docs/validation.md) y los [notas de consistencia y bases anteriores](docs/manuscript-notes.md). Los ejemplos de creación del capítulo 5 todavía no tienen control de acceso: esa protección se incorpora en el capítulo 6. Estas etapas sirven para aprendizaje local.
 
-## Estado del repositorio
+## Alcance del proyecto
 
-Primera versión local para revisión del autor. No se ha publicado en GitHub. El proyecto se concentra en PHP, Slim y HTML; CSS y JavaScript quedan fuera del alcance del ebook.
-
-## Para el autor
-
-Consulta la [guía para publicar y mantener el repositorio del ebook](docs/author-guide.md).
+Los ejemplos del ebook se concentran en PHP, Slim y HTML. CSS y JavaScript quedan fuera del recorrido principal.
 
 ## Compatibilidad con bases antiguas
 
