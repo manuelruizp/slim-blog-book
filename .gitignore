@@ -1,0 +1,17 @@
+# Dependencias instaladas por Composer
+**/vendor/
+# Datos y sesiones generados localmente
+**/*.sqlite
+**/*.sqlite-*
+**/*.sqlite3
+**/*.db
+**/sess_*
+**/*.log
+# Archivos locales
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
