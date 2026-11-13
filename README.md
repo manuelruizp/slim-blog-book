@@ -1,6 +1,6 @@
 # Código del ebook sobre Slim Framework
 
-Proyectos completos para acompañar el ebook en español **Construye tu primer blog con PHP**. El código usa variables y archivos en inglés; las rutas de la aplicación pueden estar en español.
+Proyectos completos para acompañar el ebook en español **Tu primer blog con PHP: Slim 4**. El código usa variables y archivos en inglés; las rutas de la aplicación pueden estar en español.
 
 ## Cómo usar el repositorio
 
